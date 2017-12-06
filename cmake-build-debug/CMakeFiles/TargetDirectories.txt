@@ -1,3 +1,0 @@
-/Users/naelabc/Downloads/mydu/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/Users/naelabc/Downloads/mydu/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/naelabc/Downloads/mydu/cmake-build-debug/CMakeFiles/mydu.dir
